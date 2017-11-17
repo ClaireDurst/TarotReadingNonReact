@@ -14,5 +14,6 @@ body {
 
 .jumbotron {
 	background-image: url("jumbotron.gif");
+	background-size: 1500px 400px;
 
 }
